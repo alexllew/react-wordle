@@ -12971,7 +12971,7 @@ export const VALID_GUESSES = [
   'zygon',
   'zymes',
   'zymic',
-  'Marco',
+  'marco',
   'Keeda',
   'Kaiya',
   'Kitty',
